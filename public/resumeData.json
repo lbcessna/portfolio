@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Larry Cessna",
+    "occupation": "Full Stack Developer and Project Manager",
+    "description": "I have more than 10 years of  experience working with cross-functional teams that have competing priorities to get the job done on-time and on budget",
+    "image": "profilepic.jpg",
+    "bio": "Web developer and U.S. Navy veteran with experience in technical project management, scheduling, and coding. Fascinated by web technologies, specifically back-end development, and skilled in process improvement and breaking down a problem piece-by-piece to find a solution. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "larry.cessna@outlook.com",
+    "phone": "(425) 275-6314",
+    "address": {
+      "city": "Bothell",
+      "state": "WA",
+      "zip": "98012"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/larry-cessna/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/lbcessna",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Washington",
+        "certificate": "Full Stack Javascript Developer",
+        "graduated": "November 2020",
+        "description": "Full Stack accelerated course in React.js, JavaScript(ES6), HTML, CSS, MongoDB, SQL, and more. Member of 2 award winning teams for Minnesvart and Whale Hunter."
+      },
+      {
+        "school": "Grantham University",
+        "degree": "Master of Science, Information/Project Management",
+        "graduated": "July 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Optum360 (UnitedHealth Group)",
+        "title": "Technical Project Manager",
+        "years": "March 2016 - June 2020",
+        "description": "Responsible for scheduling and execution of internal and external projects for more than 900 hospitals nationwide. Developed a roadmap management tool leveraging SharePoint and SQL technologies to organize the project schedule for five software engineers."
+      },
+      {
+        "company": "Launch Consulting",
+        "title": "Escalation Manager",
+        "years": "March 2015 - March 2016",
+        "description": "Member of the Escalation Management Team at Microsoft. Responded rapidly to emergency requests by facilitating war rooms for all Microsoft Services. Developed a management tool using Visual Basic that removed redundancies and was responsible for a marked increase in engagement and response SLAs."
+      },
+      {
+        "company": "United States Navy",
+        "title": "Chief Petty Officer/Project Manager",
+        "years": "April 2009 - February 2015",
+        "description": "Managed HR departments for Destroyer Squadron NINE, US Navy Seattle Recruiting, and the submarine tender, USS EMORY S LAND (AS 39). Managed and mentored team of 14 direct reports. Identified and solved problems early through strategic planning and communicating across multiple teams."
+      }
+  ],
+  "skills": [
+    {
+      "name": "Git",
+      "level": "60%"
+    },
+    {
+      "name": "ReactJs",
+      "level": "50%"
+    },
+    {
+      "name": "CSS",
+      "level": "90%"
+    },
+    {
+      "name": "HTML5",
+      "level": "80%"
+    },
+    {
+      "name": "VueJs",
+      "level": "50%"
+    },
+    {
+      "name": "MongoDB",
+      "level": "80%"
+    }
+  ]
+},
+"portfolio": {
+  "projects": [
+    {
+      "title": "Minnesvart",
+      "category": "My Travel Blog for my post-university travels",
+      "image": "minnesvart.jpg",
+      "url": "https://minnesvart.herokuapp.com"
+    },
+    {
+      "title": "Whale Hunter",
+      "category": "If you're in search of a whale, a rare, sought after beer, this app will help you find it",
+      "image": "fury-fighting-gear.jpg",
+      "url": "https://whalehunterbeer.herokuapp.com"
+    },
+    {
+      "title": "COVID-19 Statistics",
+      "category": "An app that takes a city/state input to provide current COVID-19 cases in the area",
+      "image": "original-thai-food.jpg",
+      "url": "https://sophia2798.github.io/covid_stats/"
+    }
+  ]
+}
+}
