@@ -67,7 +67,7 @@
   "skills": [
     {
       "name": "Git",
-      "level": "60%"
+      "image": ""
     },
     {
       "name": "ReactJs",
@@ -95,21 +95,31 @@
   "projects": [
     {
       "title": "Minnesvart",
-      "category": "My Travel Blog for my post-university travels",
-      "image": "minnesvart.jpg",
-      "url": "https://minnesvart.herokuapp.com"
+      "category": "Find an adventure close to home!",
+      "image": "minnesvart-website.jpg",
+      "url": "https://minnesvart.herokuapp.com",
+      "repo": "https://github.com/mfallesen/project3-frontend"
     },
     {
       "title": "Whale Hunter",
       "category": "If you're in search of a whale, a rare, sought after beer, this app will help you find it",
-      "image": "fury-fighting-gear.jpg",
-      "url": "https://whalehunterbeer.herokuapp.com"
+      "image": "whalehunter-website.jpg",
+      "url": "https://whalehunterbeer.herokuapp.com",
+      "repo": "https://github.com/PatCeriale/Whale-Hunter"
     },
     {
       "title": "COVID-19 Statistics",
       "category": "An app that takes a city/state input to provide current COVID-19 cases in the area",
-      "image": "original-thai-food.jpg",
-      "url": "https://sophia2798.github.io/covid_stats/"
+      "image": "covid-stats.jpg",
+      "url": "https://sophia2798.github.io/covid_stats/",
+      "repo": "https://github.com/sophia2798/covid_stats"
+    },
+    {
+      "title": "Employee Database",
+      "category": "Localized version of an employee database.",
+      "image": "employee-list.png",
+      "url": "https://github.com/lbcessna/hw12-employees-test",
+      "repo": "https://github.com/lbcessna/hw12-employees-test"
     }
   ]
 }
